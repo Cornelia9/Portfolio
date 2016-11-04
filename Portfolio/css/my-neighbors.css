@@ -142,3 +142,13 @@
 }
 
 }
+
+/* additions by Cornelia  */
+img.float-left {
+  float: left;
+  margin: 20px;
+}
+
+.clearfix {
+  overflow: auto;
+}
